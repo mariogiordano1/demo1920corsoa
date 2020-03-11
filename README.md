@@ -3,3 +3,6 @@ Repository dell'a.a 2019-2020 del corso A
 
 Edsger Wybe Dijkstra
 Netherlands - 1972
+
+
+Was born in rotterdam in 1930
