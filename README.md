@@ -6,3 +6,5 @@ Netherlands - 1972
 
 
 Was born in rotterdam in 1930
+
+*tutto il resto della descrizione*
